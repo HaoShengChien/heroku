@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaoShengChien/heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HaoShengChien/heroku/issues"
+  },
+  "homepage": "https://github.com/HaoShengChien/heroku#readme"
 }
